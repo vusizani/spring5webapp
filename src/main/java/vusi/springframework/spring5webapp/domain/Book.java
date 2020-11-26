@@ -1,4 +1,4 @@
-package vusi.springframework.spring5webapp;
+package vusi.springframework.spring5webapp.domain;
 
 import javax.persistence.*;
 import java.util.Set;
